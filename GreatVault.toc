@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: GreatVault
+## Notes: This addon will add a mini map button to open the vault
+## SavedVariables: GreatVaultDB
+
+libs\load_libs.xml
+GreatVault.xml
